@@ -1,0 +1,9 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\bin\Debug\EJERCICIOS21.exe.config
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\bin\Debug\EJERCICIOS21.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\bin\Debug\EJERCICIOS21.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\obj\Debug\EJERCICIOS21.csprojResolveAssemblyReference.cache
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\obj\Debug\EJERCICIOS21.Form1.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\obj\Debug\EJERCICIOS21.Properties.Resources.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\obj\Debug\EJERCICIOS21.csproj.GenerateResource.Cache
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\obj\Debug\EJERCICIOS21.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\EJERCICIOS21\EJERCICIOS21\obj\Debug\EJERCICIOS21.pdb
